@@ -12,7 +12,7 @@ Frontend Developer and Systems Engineering student with knowledge of React, Java
 </a>
 #
 
-## 🛠 Skills
+##  Skills
 Javascript, HTML, CSS...
 
 
