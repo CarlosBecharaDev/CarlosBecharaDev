@@ -1,4 +1,4 @@
-![Logo](about.PNG)
+![Logo](about.jpeg)
 
 # Hi, I'm Carlos Bechara!
 
