@@ -1,3 +1,4 @@
+![Logo](about.PNG)
 
 # Hi, I'm Carlos Bechara!
 
@@ -14,5 +15,5 @@ Frontend Developer and Systems Engineering student with knowledge of React, Java
 Javascript, HTML, CSS...
 
 
-![Logo](forntend.jpeg)
+![Logo](about.PNG)
 
