@@ -11,6 +11,7 @@ Frontend Developer and Systems Engineering student with knowledge of React, Java
 <a href="https://gmail.google.com/mail/?view=cm&fs=1&to=carlosmariobechararias@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+#
 
 ## 🛠 Skills
 Javascript, HTML, CSS...
