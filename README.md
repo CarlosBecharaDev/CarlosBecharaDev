@@ -15,5 +15,3 @@ Frontend Developer and Systems Engineering student with knowledge of React, Java
 Javascript, HTML, CSS...
 
 
-![Logo](about.PNG)
-
