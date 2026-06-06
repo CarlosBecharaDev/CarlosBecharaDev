@@ -24,4 +24,7 @@ Frontend Developer and Systems Engineering student with knowledge of React, Java
 
 📚 Currently learning and mastering these technologies.
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
