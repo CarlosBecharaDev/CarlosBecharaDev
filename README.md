@@ -22,5 +22,5 @@ Frontend Developer and Systems Engineering student with knowledge of React, Java
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 ![REST_API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
-📚 Currently learning and mastering these technologies.
+Currently learning and mastering these technologies.
 
