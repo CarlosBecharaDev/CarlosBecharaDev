@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <b>Desarrollador Backend Junior</b> · Java · Spring Boot · API REST
 </p>
 
 <p align="center">
