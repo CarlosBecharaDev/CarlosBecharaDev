@@ -154,14 +154,6 @@ Soy estudiante de **Tecnología en Desarrollo de Software (5.º semestre)** apas
 
 ---
 
-## 📫 Contáctame
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/carlosbechara/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:carlosmariobechararias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/CarlosBecharaDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CarlosBecharaDev&color=6DB33F&style=for-the-badge&label=Visitas" alt="Contador de visitas" />
 </p>
