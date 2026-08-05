@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- <img src="TU_LOGO_AQUI" width="120" alt="Logo" /> -->
+<!-- <img src="IMG_2740.PNG" width="120" alt="Logo" /> -->
 
 # ¡Hola! Soy Carlos Bechara 👋
 
