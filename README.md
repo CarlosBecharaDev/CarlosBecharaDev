@@ -79,7 +79,7 @@ Soy estudiante de **Tecnología en Desarrollo de Software (5.º semestre)** apas
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">🎫 LiganTicket API</h3>
       <p align="center"><b><a href="https://github.com/CarlosBecharaDev/LiganTicket-API">API de turnos y filas</a></b></p>
       <p>API REST para gestión de filas y turnos de atención (bancos, hospitales, EPS).<br>
@@ -93,7 +93,7 @@ Soy estudiante de **Tecnología en Desarrollo de Software (5.º semestre)** apas
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       </p>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">🗺️ ODYXS</h3>
       <p align="center"><b><a href="https://github.com/CarlosBecharaDev/ODYXS">Guía turística de Cartagena</a></b></p>
       <p>Aplicación web full stack con <b>+40 rutas</b> turísticas.<br>
@@ -106,6 +106,18 @@ Soy estudiante de **Tecnología en Desarrollo de Software (5.º semestre)** apas
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       </p>
     </td>
+    <td width="33%">
+      <h3 align="center">🟨 ligan-java-lab</h3>
+      <p align="center"><b><a href="https://github.com/CarlosBecharaDev/ligan-java-lab">Plataforma educativa de Java 21</a></b></p>
+      <p>Plataforma educativa interactiva para aprender <b>Java 21 LTS</b> con retro pixel-art UI.<br>
+      ✅ Lecciones interactivas y práctica guiada<br>
+      ✅ Enfoque en fundamentos de Java 21<br>
+      ✅ Desplegada en <b>Vercel</b></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -114,8 +126,8 @@ Soy estudiante de **Tecnología en Desarrollo de Software (5.º semestre)** apas
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosBecharaDev&layout=compact&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" alt="Lenguajes más usados" />
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosBecharaDev&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&layout=compact" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosBecharaDev&layout=compact&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosBecharaDev&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&layout=compact&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
