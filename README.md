@@ -25,7 +25,6 @@
 Soy estudiante de **Tecnología en Desarrollo de Software (5.º semestre)** apasionado por el backend. Construyo API REST robustas y seguras con **Java y Spring Boot**, aplicando principios SOLID, arquitectura limpia y buenas prácticas de ingeniería.
 
 - 🎓 Promedio acumulado **> 4.2 / 5.0**
-- 🔒 Especializado en **Spring Security + JWT** y control de acceso por roles
 - 🗄️ Modelado de bases de datos relacionales (MySQL, PostgreSQL, MariaDB)
 - 🐳 Despliegue containerizado con **Docker**
 - 📚 Aprendiendo continuamente arquitectura limpia y patrones de diseño
