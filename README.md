@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="about.png" width="600" alt="Carlos Bechara" style="border-radius: 50%;" />
+  <img src="about.png" width="420" alt="Carlos Bechara" style="border-radius: 50%;" />
 </p>
 
+<h1 align="center">Carlos Bechara</h1>
+
 <p align="center">
+  <b>Desarrollador Backend Junior</b> · Java · Spring Boot · API REST
 </p>
 
 <p align="center">
@@ -25,6 +28,7 @@
 Soy estudiante de **Tecnología en Desarrollo de Software (5.º semestre)** apasionado por el backend. Construyo API REST robustas y seguras con **Java y Spring Boot**, aplicando principios SOLID, arquitectura limpia y buenas prácticas de ingeniería.
 
 - 🎓 Promedio acumulado **> 4.2 / 5.0**
+- 🔒 Especializado en **Spring Security + JWT** y control de acceso por roles
 - 🗄️ Modelado de bases de datos relacionales (MySQL, PostgreSQL, MariaDB)
 - 🐳 Despliegue containerizado con **Docker**
 - 📚 Aprendiendo continuamente arquitectura limpia y patrones de diseño
@@ -108,12 +112,12 @@ Soy estudiante de **Tecnología en Desarrollo de Software (5.º semestre)** apas
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosBecharaDev&layout=compact&theme=github_dark&hide_border=true" alt="Lenguajes más usados" />
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosBecharaDev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosBecharaDev&layout=compact&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosBecharaDev&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&layout=compact" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosBecharaDev&theme=github-dark&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosBecharaDev&theme=github-dark-blue" alt="Racha de contribuciones" />
 </p>
 
 ---
