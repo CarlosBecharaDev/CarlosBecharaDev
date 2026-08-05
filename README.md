@@ -110,7 +110,7 @@ Soy estudiante de **Tecnología en Desarrollo de Software (5.º semestre)** apas
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">🟨 ligan-java-lab</h3>
+      <h3 align="center">🟨 LiganJavaLAB</h3>
       <p align="center"><b><a href="https://github.com/CarlosBecharaDev/ligan-java-lab">Plataforma educativa de Java 21</a></b></p>
       <p>Plataforma educativa interactiva para aprender <b>Java 21 LTS</b> con retro pixel-art UI.<br>
       ✅ Lecciones interactivas y práctica guiada<br>
