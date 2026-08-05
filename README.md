@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="about.png" width="420" alt="Carlos Bechara" style="border-radius: 50%;" />
+  <img src="about.png" width="600" alt="Carlos Bechara" style="border-radius: 50%;" />
 </p>
-
-<h1 align="center">Carlos Bechara</h1>
 
 <p align="center">
   <b>Desarrollador Backend Junior</b> · Java · Spring Boot · API REST
