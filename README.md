@@ -2,12 +2,6 @@
   <img src="about.png" width="420" alt="Carlos Bechara" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Carlos Bechara</h1>
-
-<p align="center">
-  <b>Desarrollador Backend Junior</b> · Java · Spring Boot · API REST
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Backend+Developer+Java+%26+Spring+Boot;API+REST+%C2%B7+Spring+Security+%C2%B7+JWT;Bases+de+datos+relacionales+%C2%B7+Docker" alt="Typing SVG" />
 </p>
@@ -155,6 +149,7 @@ Soy estudiante de **Tecnología en Desarrollo de Software (5.º semestre)** apas
 
 - 📜 **Universidad Java: de Cero a Experto** (+155 h) — Udemy, 2026
 - 🌐 **Introducción a Cisco Packet Tracer** — Cisco Networking Academy, 2026
+- 🤖 **Claude Code in Action** — Anthropic, jul. 2026 · ID: `8ez5krhm9fyp`
 
 ---
 
