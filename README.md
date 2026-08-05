@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="about.png" width="420" alt="Carlos Bechara" style="border-radius: 50%;" />
+  <img src="about.png" width="550" alt="Carlos Bechara" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
